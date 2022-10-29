@@ -13,6 +13,5 @@ people = int(input("How many people to split the bill?"))
 bill_and_tip = bill * (100+tip)/100
 per_pax = round(bill_and_tip / people , 2)
 # per_pax = "{:.2f}".format(bill_and_tip / people)
-# Alternative way to ensure that if the bill is $19.60, it displays as $19.60
-# and not $19.6
+# Alternative way to ensure that if the bill is $19.60, it displays as $19.60 and not $19.6
 print(f"Each person should pay: ${per_pax}")
