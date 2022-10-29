@@ -21,3 +21,4 @@
 * int() rounds down while round() rounds up. round() also allows you to specify the number of decimal places you round off to. 
 * // floor division gives the same result as int(), giving the result as an integer.
 * += 1, /= 1 helps to divide/add to the same variable twice. 
+* https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points Refer to this document for more ways to format round of to fixed decimal places. 
