@@ -1,13 +1,13 @@
 # Day 2: Understanding Data Types and How to Manipulate Strings
 
-# Content
+## Content
 * Python Primitive Data Types
 * Type Error, Type Checking and Type Conversion
 * Data Types
 * Mathematical Operations in Python
 * Number Manipulation and F Strings in Python
 
-# Learning Points
+## Learning Points
 * len() cannot be used on integers
 * The method of pulling out a particular element from a string is called "subscripting"
 * We can place _ underscores in integers to mimic , placeholders. E.g. 100,000 v.s. 100_000. Python will ignore the _ placeholders. It is for us to visualize longer integers better. 
