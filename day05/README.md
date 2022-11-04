@@ -1,7 +1,7 @@
 # Day 5: Python Loops
 ## Contents
-Using the for loop with Python Lists
-For loops and the range() function
+* Using the for loop with Python Lists
+* For loops and the range() function
 
 ## Learning Points
 * For range(2, 100, 2), this means that the list will start from 2 but end at 98. This is because the last number is non-inclusive. 
