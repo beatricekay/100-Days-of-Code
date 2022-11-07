@@ -6,3 +6,5 @@
 **Day 3 (30/10/22):** Control Flow and Logical Operators\
 **Day 4 (31/10/22):** Randomisation and Python Lists\
 **Day 5 (04/11/22):** Python Loops
+**Day 6 (06/11/22):** Python Functions & Karel
+**Day 7 (07/11/22):** Hangman
