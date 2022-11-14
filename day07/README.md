@@ -6,4 +6,7 @@
 * How to Add ASCII Art and Improve the UI
 
 ## Learning Points
-* 
+* Importing modules: https://www.askpython.com/python/python-import-statement
+* https://stackoverflow.com/questions/17255737/importing-variables-from-another-file
+
+
