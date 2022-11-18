@@ -7,3 +7,4 @@
 * def function(parameter): v.s. function(argument).
 * Paremeter is used when defining the function, while argument is used when calling the function. 
 * Keyword arguments allow the repositioning of arguments. The order of the positional arguments does not matter, e.g. function(c=1, b=2, a=3) 
+* np.ceil() and math.ceil() rounds up all numbers to its nearest integer. To remove the decimal places after the ceil() function, we wrap it in int() to convert it to an integer
