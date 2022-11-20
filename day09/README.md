@@ -8,4 +8,5 @@
 dictionary = {\
   "Key1" : "Value1",\
   "Key2" : "Value2\
- }
+ }\
+ * We can nest lists in dictionaries and dictionaries in lists vice versa.
