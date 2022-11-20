@@ -12,3 +12,5 @@
 * Note that range(2,2) returns no numbers at all while range(2,3) returns just the number 2.
 * There are 2 ways to approach the Caeser Cipher project. 1) Include 2 sets of the alphabet in the alphabet list, 2) Have only 1 set of the alphabet and account for the numbers > 25 or < 1 by using the %.
 * .append() and appending items is only for lists and not dictionaries.
+* Defining a clear() function using os module.
+* To iterate through a list/dictionary, we assume the maximum value is 0 first. 
