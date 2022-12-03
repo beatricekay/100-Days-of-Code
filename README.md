@@ -9,4 +9,5 @@
 **Day 6 (6th Nov):** Python Functions & Karel\
 **Day 7 (14th Nov):** Hangman\
 **Day 8 (15th Nov):** Function Parameters & Caesar Cipher\
-**Day 9 (20th Nov):** Dictionaries, Nesting and the Secret Auction
+**Day 9 (20th Nov):** Dictionaries, Nesting and the Secret Auction\
+**Day 10 (3rd Dec):** Functions with Outputs
