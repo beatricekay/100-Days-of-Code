@@ -7,6 +7,7 @@
 * Logical Operators
 
 ## Learning Points
+* Checking if a year is a leap year: https://bit.ly/36BjS2D
 * Indentation within IF/ELSE loops is important. 
 * One = sign is for assigning variables. 2 == signs is for checking the equality of a value. 
 * In the case of the BMI, e.g. BMI between 18.5 and 25, you don't have to specify the logic to be bmi >= 18.5 & bmi < 25 because it is already accounted for in the first loop where bmi < 18.5
