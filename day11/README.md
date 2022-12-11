@@ -1,5 +1,5 @@
 # Day 11: The Blackjack Capstone Project
 
-# Scope
+## Scope
 
-# Learning Points
+## Learning Points
