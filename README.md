@@ -1,14 +1,16 @@
-# 100-Days-of-Code
+# 100 Days of Code
 100 Days of Code: The Complete Python Pro Bootcamp
 
-**Day 1 (28th Oct):** Working with Variables in Python to Manage Data\
-**Day 2 (29th Oct):** Understanding Data Types and How to Manipulate Strings\
-**Day 3 (30th Oct):** Control Flow and Logical Operators\
-**Day 4 (31st Oct):** Randomisation and Python Lists\
-**Day 5 (4th Nov):** Python Loops\
-**Day 6 (6th Nov):** Python Functions & Karel\
-**Day 7 (14th Nov):** Hangman\
-**Day 8 (15th Nov):** Function Parameters & Caesar Cipher\
-**Day 9 (20th Nov):** Dictionaries, Nesting and the Secret Auction\
-**Day 10 (3rd Dec):** Functions with Outputs\
-**Day 11 (11th Dec):** The Blackjack Capstone Project\
+## Beginner 🐻
+**[Day 1 (28/10/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day01)** Working with Variables in Python to Manage Data\
+**[Day 2 (29/10/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day02)** Understanding Data Types and How to Manipulate Strings\
+**[Day 3 (30/10/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day03)** Control Flow and Logical Operators\
+**[Day 4 (31/10/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day04)** Randomisation and Python Lists\
+**[Day 5 (04/11/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day05)** Python Loops\
+**[Day 6 (06/11/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day06)** Python Functions & Karel\
+**[Day 7 (14/11/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day07)** Hangman\
+**[Day 8 (15/11/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day08)** Function Parameters & Caesar Cipher\
+**[Day 9 (20/11/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day09)** Dictionaries, Nesting and the Secret Auction\
+**[Day 10 (03/12/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day10)** Functions with Outputs\
+**[Day 11 (11/12/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day11)** The Blackjack Capstone Project\
+**[Day 12 (15/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day12)** Scope & Number Guessing Game
