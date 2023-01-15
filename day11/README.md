@@ -2,6 +2,7 @@
 
 ## Scope
 * Refactoring and calling procedures
+* Helpful links for project: https://listmoz.com/view/6h34DJpvJBFVRlZfJvxF
 
 ## Learning Points
 * .extend() is to add lists only. For adding single elements, .append() should be used instead. 
