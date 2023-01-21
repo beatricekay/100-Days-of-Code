@@ -13,4 +13,4 @@
 **[Day 9 (20/11/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day09)** Dictionaries, Nesting and the Secret Auction\
 **[Day 10 (03/12/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day10)** Functions with Outputs\
 **[Day 11 (11/12/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day11)** The Blackjack Capstone Project\
-**[Day 12 (15/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day12)** Scope & Number Guessing Game
+**[Day 12 (21/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day12)** Scope & Number Guessing Game
