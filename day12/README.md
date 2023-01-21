@@ -7,7 +7,7 @@
 * Global scope: variable accessible anywhere outside a function
 * Local scope: variable only accessible inside a function
 * Python does not have block scope
-* If you define a variable within a function, then it is only available within the function. 
+* If you define a variable within a function, then it is only available within the function's local scope. Calling a variable outside of its local scope will result in a NameError.
 * If you define a variable outside of a function, but within an if/for/while loop, then it does not count as creating a separate local scope and still exists within the global scope.
 * To modify a global scope inside a function:
 ```
