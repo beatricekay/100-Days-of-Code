@@ -1,5 +1,5 @@
 # Day 12: Scope & Number Guessing Game
-## Concepts Practised
+## Content
 * How to Modify a Global Variable
 * Python Constants and Global Scope
 
