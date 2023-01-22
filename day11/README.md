@@ -1,6 +1,6 @@
 # Day 11: The Blackjack Capstone Project
 
-## Scope
+## Content
 * Refactoring and calling procedures
 * Helpful links for project: https://listmoz.com/view/6h34DJpvJBFVRlZfJvxF
 
