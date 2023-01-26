@@ -18,4 +18,5 @@
 **[Day 14 (23/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day14)** Higher Lower Game Project\
 
 ## Intermediate 🐯
-**[Day 15 (24/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day15)** Local Development Environment Setup & the Coffee Machine
+**[Day 15 (24/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day15)** Local Development Environment Setup & the Coffee Machine\
+**[Day 16 (26/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day15)** Object Oriented Programming (OOP)
