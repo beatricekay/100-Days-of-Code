@@ -15,4 +15,7 @@
 **[Day 11 (11/12/22):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day11)** The Blackjack Capstone Project\
 **[Day 12 (21/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day12)** Scope & Number Guessing Game\
 **[Day 13 (22/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day13)** Debugging: How to Find and Fix Errors in your Code\
-**[Day 14 (23/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day14)** Higher Lower Game Project
+**[Day 14 (23/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day14)** Higher Lower Game Project\
+
+## Intermediate 🐯
+**[Day 15 (24/01/23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day15)** Local Development Environment Setup & the Coffee Machine
