@@ -6,3 +6,4 @@
 * Modifying Object Attributes and Calling Methods
 
 ## Learning Points
+* We model a ```class``` after a restaurant, and each restaurant has ```objects``` like Waiter, Chef and Cleaner.
