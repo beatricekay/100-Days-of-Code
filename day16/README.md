@@ -14,3 +14,7 @@
   * **Methods:** functions owned by each object\
     ```def take_order(table, order): #takes order to chef```\
     ```def take_payment(amount): #add money to restaurant```
+    
+* Turtle colours: https://cs111.wellesley.edu/reference/colors
+* PyPi: Python Package Index
+  * prettytable package https://pypi.org/project/prettytable/
