@@ -18,4 +18,6 @@
 * Turtle colours: https://cs111.wellesley.edu/reference/colors
 * PyPi: Python Package Index
   * prettytable package https://pypi.org/project/prettytable/
+  
+* Checking if object is of NoneType condition: https://stackoverflow.com/questions/23086383/how-to-test-nonetype-in-python
 
