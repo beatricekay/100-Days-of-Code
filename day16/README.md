@@ -6,7 +6,7 @@
 * Modifying Object Attributes and Calling Methods
 
 ## Learning Points
-* We model a ```class``` after waiter and each class has various waiter ```objects``` for various waiter names.
+* We model a ```class``` after waiter and each class has various waiter ```objects``` for various waiter names. Each class can be thought to be like a blueprint that can be constantly reused to create multiple different objects. 
 * Each waiter ```object``` can have:
   * **Attributes:** variables owned by each object\
     ```is_holding_plate = True```\
