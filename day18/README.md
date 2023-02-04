@@ -21,4 +21,12 @@ tim = Turtle()
 # This method doesn't allow us to know which module the method is coming from
 # Avoid using this import method
 from turtle import *
+tim = Turtle()
 ```
+* Aliasing modules: reduce the need to call the module by its entire name
+```
+import turtle as t
+tim = t.Turtle()
+```
+
+
