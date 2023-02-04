@@ -34,4 +34,6 @@ tim = t.Turtle()
 * Colorgram module: https://pypi.org/project/colorgram.py/
   * Lets you extract colours from images
 
+* W3 RBG colour checker: https://www.w3schools.com/colors/colors_rgb.asp
+
 
