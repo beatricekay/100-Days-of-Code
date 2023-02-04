@@ -28,5 +28,7 @@ tim = Turtle()
 import turtle as t
 tim = t.Turtle()
 ```
+* Turtle module documentation: https://docs.python.org/3/library/turtle.html#module-turtle
+* Turtle trinket colours: https://trinket.io/docs/colors
 
 
