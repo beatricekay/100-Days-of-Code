@@ -21,3 +21,4 @@
 **[Day 15 (24th Jan 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day15)** Local Development Environment Setup & the Coffee Machine\
 **[Day 16 (26th Jan 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day16)** Object Oriented Programming (OOP)\
 **[Day 17 (28th Jan 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day17)** The Quiz Project & The Benefits of OOP
+**[Day 18 (4th Feb 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day17)** Turtle & the Graphical User Interface (GUI)
