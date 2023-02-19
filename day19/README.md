@@ -6,6 +6,7 @@
 
 ## Learning Points
 * Turtle Event Listeners: https://docs.python.org/3/library/turtle.html#turtle.listen
+* screen.listen() allows us to 'listen' for keystrokes to control the turtle
 
 ### Higher Order Functions
 * When a function is used as an argument, we do not need to put the parentheses. For example:
