@@ -22,4 +22,4 @@
 * **[Day 16 (26th Jan 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day16)** Object Oriented Programming (OOP)
 * **[Day 17 (28th Jan 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day17)** The Quiz Project & The Benefits of OOP
 * **[Day 18 (4th Feb 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day18)** Turtle & the Graphical User Interface (GUI)
-* **[Day 19 (5th Feb 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day18)** Instances, State and Higher Order Functions
+* **[Day 19 (5th Feb 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day19)** Instances, State and Higher Order Functions
