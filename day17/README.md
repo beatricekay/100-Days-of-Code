@@ -7,6 +7,7 @@
 ## Learning Points
 * A ```class``` is a blueprint for creating an ```object```.
 * Key benefits of OOP is that it allows for code modularity - code which is separated into independent modules. This makes it easier to test and refactor/modify code independently without drastically affecting one another. 
+* If you are defining a class or method partially and it does not have complete contents, you can type in ```pass```. 
 
 #### Constructors ```__init__```
 * Constructors help us to specify what should happen when our object is being constructed
