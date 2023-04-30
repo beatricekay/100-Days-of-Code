@@ -14,4 +14,3 @@
 6. Detect collision with wall 
 7. Detect collision with tail
 
-## Learning Points
