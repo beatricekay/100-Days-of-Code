@@ -1,8 +1,4 @@
 # Day 21: Build Pong: The Famous Arcade Game
-## Content
-* Class Inheritance 
-* How to Slice Lists & Tuples in Python
-
 ## Project Steps
 1. Create the screen
 2. Create and move a paddle
