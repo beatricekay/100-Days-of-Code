@@ -24,3 +24,5 @@
 * **[Day 18 (4th Feb 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day18)** Turtle & the Graphical User Interface (GUI)
 * **[Day 19 (5th Feb 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day19)** Instances, State and Higher Order Functions
 * **[Day 20 (19th Feb 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day20)** Build the Snake Game Part 1: Animation & Coordinates
+* **[Day 21 (30th Apr 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day21)** Build the Snake Game Part 2: Inheritance & List Slicing
+
