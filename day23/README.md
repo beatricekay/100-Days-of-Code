@@ -11,7 +11,7 @@
 2. Create and move the cars
 3. Detect collision with car
 4. Detect when turtle reaches the other side and increase its speed
-5. Create a scoreboard
+5. Create a scoreboard (Level Up, Game Over)
 
 ### Steps in Detail
 1. Create a turtle player that starts at the bottom of the screen and listen for the "Up" keypress to move the turtle north. 
