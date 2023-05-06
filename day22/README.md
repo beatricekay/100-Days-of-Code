@@ -1,4 +1,4 @@
-# Day 21: Build Pong: The Famous Arcade Game
+# Day 22: Build Pong: The Famous Arcade Game
 ## Project Steps
 1. Create the screen
 2. Create and move a paddle
