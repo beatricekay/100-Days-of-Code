@@ -11,7 +11,8 @@
 2. Create and move the cars
 3. Detect collision with car
 4. Detect when turtle reaches the other side
-5. Create a scoreboard
+5. Increase speed of turtle
+6. Create a scoreboard
 
 ### Steps in Detail
 1. Create a turtle player that starts at the bottom of the screen and listen for the "Up" keypress to move the turtle north. 
