@@ -26,4 +26,4 @@
 * **[Day 20 (19th Feb 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day20)** Build the Snake Game Part 1: Animation & Coordinates
 * **[Day 21 (30th Apr 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day21)** Build the Snake Game Part 2: Inheritance & List Slicing
 * **[Day 22 (1st May 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day22)** Build Pong - The Famous Arcade Game
-
+* **[Day 23 (6th May 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day23)** The Turtle Crossing Capstone Project
