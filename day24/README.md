@@ -28,6 +28,9 @@ with open("my_file.txt") as file:
   print(contents)
 ```
 
+* `.read()` reads the entire text into a string
+* `.readlines()` puts each line into a list but you have to replace/remove `\n`
+
 * `open()` also accepts another parameter called `mode`
   * Default `mode` parameter is set to "r" which is read only
   * "w" is for writing but this deletes/overrides everything in the text file
