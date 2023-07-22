@@ -28,4 +28,4 @@
 * **[Day 22 (1st May 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day22)** Build Pong - The Famous Arcade Game
 * **[Day 23 (6th May 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day23)** The Turtle Crossing Capstone Project
 * **[Day 24 (15th July 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day24)** Files, Directories and Paths
-
+* **[Day 25 (22nd July 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day25)** Working with CSV Data and the Pandas Library
