@@ -23,7 +23,7 @@
 * `pandas` library is more convenient to read CSV files
   * `to_dict()`: converts a DataFrame to a dictionary
   * `to_list()`: converts a Series (single DataFrame column) to a list
-  * DataFrame(): converts a dictionary to a DataFrame
+  * DataFrame(): converts a list or dictionary to a DataFrame
  
 * Reference a column: `df["column"]` or `df.column`
-* Reference a row: `df[df["column"] == condition]`
+* Reference a row: `df[df["column"] == condition]` or `df[df.column == condition]`
