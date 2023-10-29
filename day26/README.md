@@ -8,19 +8,23 @@
 ### List Comprehension
 * Help to reduce the number of lines in code by creating the new list directly in the list itself. This concept can be applied to strings as well.
   * ``` python
-    new_list = [new_item for item in list]```
+    new_list = [new_item for item in list]
+    ```
  
 ### Conditional List Comprehension:
 * ``` python
-  new_list = [new_item for item in list if test]```
+  new_list = [new_item for item in list if test]
+  ```
 
 ### Dictionary Comprehension
 * Create a new dictionary based on values in a list:
   * ``` python
-    new_dict = {new_key:new_value for item in list if test}```
+    new_dict = {new_key:new_value for item in list if test}
+    ```
 * Create a new dictionary based on a values in a dictionary:
   * ```python
-    new_dict = {new_key:new_value for (key, value) in dict.items() if test}```
+    new_dict = {new_key:new_value for (key, value) in dict.items() if test}
+    ```
  
 ### Looping through a Pandas DataFrame
 * Method 1: 
