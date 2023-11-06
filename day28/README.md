@@ -5,3 +5,6 @@
 * Dynamic Typing
 * Setting Different Timer Sessions and Values
 * Adding Checkmarks and Resetting the Application
+
+## Learning Points
+* 
