@@ -31,3 +31,4 @@
 * **[Day 25 (22nd Jul 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day25)** Working with CSV Data and the Pandas Library
 * **[Day 26 (29th Oct 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day26)** List Comprehension and the Nato Alphabet
 * **[Day 27 (4th Nov 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day27)** Tkinter, *args, **kwargs and Creating GUI Programs
+* **[Day 28 (6th Nov 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day28)** Tkinter, Dynamic Typing and the Pomodoro GUI Application
