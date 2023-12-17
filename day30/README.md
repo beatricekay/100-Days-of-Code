@@ -40,4 +40,15 @@
       file.close()
       print("File was closed.")
   ```
+*
+  ```python
+  try:
+      count = count + 1
+  except KeyError:
+      pass
+  ```
+* You can also raise your own exceptions:
+  ```python
+  raise ValueError("This should not happen.")
+  ```
 * https://www.programiz.com/python-programming/exception-handling
