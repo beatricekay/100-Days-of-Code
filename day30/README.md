@@ -7,6 +7,7 @@
 * Write, read and update JSON data in the Password Manager
 
 ## Learning Points
+### Exception Handling
 * Common errors are:
   * `KeyError`: key does not exist in dictionary
   * `IndexError`: list index out of range
@@ -52,3 +53,25 @@
   raise ValueError("This should not happen.")
   ```
 * https://www.programiz.com/python-programming/exception-handling
+  
+### JSON Data
+* JSON files are converted to dictionaries in Python
+* **Write:** ```json.dump(new_date, file, indent=4)```
+  * ```indent``` will unflatten the ```json``` and make it more readable
+* **Read:** ```json.load()```
+  * ```python
+    data = json.load(data_file)
+    print(data)
+    ```
+* **Update:** ```json.update()```
+  * ```python
+    with open("data.json", "r") as data_file:
+         # Reading old data
+         data = json.load(data_file)
+         # Update old data with new data
+         data.update(new_data)
+    
+    with open("data.json", "w") as data_file:
+         # Saving updated data
+         json.dump(data, data_file, indent=4)
+    ```
