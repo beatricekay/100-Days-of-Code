@@ -1,4 +1,4 @@
-# Day 30 - Flash Card App Capstone Project
+# Day 31 - Flash Card App Capstone Project
 ## Concepts Practised
 * Create the User Interface (UI) with Tkinter
 * Create New Flash Cards
