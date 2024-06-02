@@ -34,3 +34,4 @@
 * **[Day 28 (6th Nov 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day28)** Tkinter, Dynamic Typing and the Pomodoro GUI Application
 * **[Day 29 (1st Dec 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day29)** Building a Password Manager GUI App with Tkinter
 * **[Day 30 (18th Dec 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day30)** Errors, Exceptions and JSON Data: Improving the Password Manager
+* **[Day 31 (2nd Jun 23):](https://github.com/beatricekay/100-Days-of-Code/tree/main/day31)** Flash Card App Capstone Project
