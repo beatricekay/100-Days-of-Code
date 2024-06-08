@@ -19,3 +19,4 @@
       * 401: Not authorised to access resource 
     * 5XX: I Screwed Up
     * More response codes and their definition here: https://www.webfx.com/web-development/glossary/http-status-codes/
+   * **API Parameters:** variable parts of a resource. They determine the type of action you want to take on the resource.
