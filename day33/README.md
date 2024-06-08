@@ -21,4 +21,9 @@
     * More response codes and their definition here: https://www.webfx.com/web-development/glossary/http-status-codes/
    * **API Parameters:** variable parts of a resource. They determine the type of action you want to take on the resource.
  
-     ```python response = requests.get(url, params=parameters)```
+     ```python
+     response = requests.get(url, params=parameters)
+     ```
+     ```python
+     endpoint?param1=value&param2=value
+     ```
